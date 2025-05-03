@@ -402,3 +402,24 @@ footer {
     border: none;
     border-radius: 5px;
 }
+
+.footer-newsletter button {
+    padding: 10px;
+    background-color: #f80909;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 0.8em;
+}
+
+.footer-info{
+    font-size: 15px;
+}
+.footer-contact{
+    font-size: 15px;
+}
