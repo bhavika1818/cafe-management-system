@@ -63,3 +63,7 @@ section{
     background: var(--main-color);
     cursor: pointer;
 }
+
+btn:hover {
+    letter-spacing: .2rem;
+}
