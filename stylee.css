@@ -423,3 +423,22 @@ footer {
 .footer-contact{
     font-size: 15px;
 }
+
+.footer-social{
+    font-size: 15px;
+    color: #ccc;
+}
+.footer-bottom{
+    font-size: 15px;
+}
+.footer-container{
+    align-items: center;
+    border: #ccc;
+    padding: 4rem 4rem;
+    border-style: solid;
+    border-width: 1px 0;
+    border-color:#ccc;
+}
+.footer-social a{
+    color:  #ccc;
+}
