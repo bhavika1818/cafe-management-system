@@ -316,3 +316,19 @@ btn:hover {
     font-size: 25px;
     font-family: sans-serif;
 }
+
+.menu .break{
+    text-align: center;
+    color: #ccc;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif; 
+}
+
+.menu .box a{
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    margin-right: 100px;
+    margin-left: 500px;
+    
+}
