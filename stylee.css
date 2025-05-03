@@ -49,5 +49,11 @@ section{
     font-size: 4rem;
 }
 
+.heading span {
+    color: var(--main-color);
+    text-transform: uppercase;
+}
+
+
 
 
