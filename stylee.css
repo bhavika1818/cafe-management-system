@@ -296,3 +296,10 @@ btn:hover {
 
 /* blogs section ends  */
 
+/* menu section starts  */
+
+.menu span{
+    text-align: center;
+    color: #ccc;
+    font-size: 20px;
+}
