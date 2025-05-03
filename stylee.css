@@ -102,3 +102,8 @@ btn:hover {
 }
 
 /* header section ends  */
+
+#menu-btn{
+    display: none;
+}
+
