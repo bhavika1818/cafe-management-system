@@ -80,3 +80,11 @@ btn:hover {
     top: 0; left: 0; right: 0;
     z-index: 1000;
 }
+
+.header .navbar a{
+    margin:0 1.5rem;
+    font-size: 1.7rem;
+    color:#fff;
+    text-align: center;
+
+}
