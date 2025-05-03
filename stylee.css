@@ -117,3 +117,18 @@ btn:hover {
     background-position: center; 
 }
 
+.home .content h3{
+    font-size: 4rem;
+    text-transform: uppercase;
+    color:#fff
+}
+
+.home .content p{
+    font-size: 2rem;
+    font-weight: light;
+    line-height: 1.8;
+    padding: 1rem 0;
+    color:#eee
+    
+}
+
