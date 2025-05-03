@@ -375,3 +375,30 @@ footer {
     margin: 5px;
     min-width: 200px;
 }
+
+.footer-info h3,
+.footer-contact h3,
+.footer-social h3,
+.footer-newsletter h3 {
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+
+.footer-social a {
+    display: block;
+    color: black;
+    text-decoration: none;
+    margin: 5px 10px;
+}
+
+.footer-newsletter form {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-newsletter input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+}
