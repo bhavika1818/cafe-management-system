@@ -54,6 +54,12 @@ section{
     text-transform: uppercase;
 }
 
-
-
-
+.btn {
+    margin-top: .5rem;
+    display: inline-block;
+    padding: 4rem 3rem;
+    font-size: 1.7rem;
+    color: #fff;
+    background: var(--main-color);
+    cursor: pointer;
+}
