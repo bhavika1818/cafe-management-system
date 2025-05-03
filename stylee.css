@@ -303,3 +303,16 @@ btn:hover {
     color: #ccc;
     font-size: 20px;
 }
+
+.menu .break{
+    text-align: center;
+    color: #ccc;
+    font-size: 30px;
+}
+
+.menu .adda{
+    text-align: center;
+    color: #ccc;
+    font-size: 25px;
+    font-family: sans-serif;
+}
