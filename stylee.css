@@ -255,3 +255,17 @@ btn:hover {
 .blogs .box-container .box:hover .image img{
     transform: scale(1.2);
 }
+
+.blogs .box-container .box .content{
+    padding: 0.5rem;
+}
+
+.blogs .box-container .box .content .title{
+    font-size: 2rem;
+    line-height: 1;
+    color:#fff;
+}
+
+.blogs .box-container .box .content .title:hover{
+    color:#b3b01e;
+}
