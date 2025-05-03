@@ -269,3 +269,17 @@ btn:hover {
 .blogs .box-container .box .content .title:hover{
     color:#b3b01e;
 }
+
+.blogs .box-container .box .content span{
+    color:var(--main-color);
+    display: block;
+    padding-top: 1rem;
+    font-size: 1.5rem;
+}
+
+.blogs .box-container .box .content p{
+    font-size: 1.5rem;
+    line-height: 1.8;
+    color: #ccc;
+    padding:1rem 0;
+}
