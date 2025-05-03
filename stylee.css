@@ -67,3 +67,16 @@ section{
 btn:hover {
     letter-spacing: .2rem;
 }
+
+/* header section starts  */
+.header{
+    background: rgb(3, 1, 0);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem 7%;
+    border-bottom: var(--border);
+    /* position: fixed; */
+    top: 0; left: 0; right: 0;
+    z-index: 1000;
+}
