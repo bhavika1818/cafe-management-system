@@ -107,3 +107,13 @@ btn:hover {
     display: none;
 }
 
+/* home section starts  */
+.home{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(matiinu-ramadhan-i3vmGDN_Fzg-unsplash.jpg) no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+
