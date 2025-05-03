@@ -88,3 +88,10 @@ btn:hover {
     text-align: center;
 
 }
+
+.header .navbar a:hover{
+    color:var(--main-color);
+    border-bottom: .1rem solid var(--main-color);
+    padding-bottom: .5rem;
+}
+
