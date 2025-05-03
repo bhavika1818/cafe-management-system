@@ -95,3 +95,10 @@ btn:hover {
     padding-bottom: .5rem;
 }
 
+
+.header .logo img{
+    height: 90px;
+    width: 200px;
+}
+
+/* header section ends  */
