@@ -1,6 +1,6 @@
 /* Global Styles */
 * {
-    margin: 0;
+    margin : 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Arial', sans-serif;
@@ -16,7 +16,7 @@ body {
 header {
     background-color: black;
     color: #fff;
-    text-align: center;
+    text- align: center;
     padding: 2rem;
     border-bottom: #fff;
 }
