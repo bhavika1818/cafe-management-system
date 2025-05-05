@@ -25,3 +25,13 @@ header nav ul li a {
     color: white;
     text-decoration: none;
 }
+main {
+    padding: 20px;
+}
+
+.blog-container {
+    display: flex;
+    flex-direction: column;
+    color:#f4f4f4
+
+}
