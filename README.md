@@ -21,6 +21,13 @@
     <li><strong>preferences.html</strong> – A page where customers can give their preferences.</li>
     <li><strong>blog1.html</strong> - A blog page.</li>
   </ul>
+  <h2>👤 Contributor: Dilshan Garg</h2>
+<p>This section was added by <strong>Dilshan</strong>. I worked on the UI layout and handled the responsive design for the menu page.</p>
+<ul>
+  <li>Created the GitHub Actions YAML workflow to lint HTML, CSS, and JavaScript files.</li>
+  <li>Improved design elements and overall user experience.</li>
+</ul>
+<p>GitHub Profile: <a href="https://github.com/Dilshan-tech" target="_blank">github.com/Dilshan-tech</a></p>
 
   <p>This included:</p>
   <ul>
