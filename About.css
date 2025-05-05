@@ -11,7 +11,7 @@ main {
 }
 
 .blog-container {
-    display: flex;
+    display : flex;
     flex-direction: column;
     color:#f4f4f4
 
