@@ -28,4 +28,15 @@
     margin-bottom: 20px;
     color: #fff;
   }
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin: 10px 0 5px;
+    text-align: left;
+    font-size: 1.1em;
+  }
+
 
