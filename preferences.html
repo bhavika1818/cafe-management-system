@@ -25,3 +25,30 @@
                     <label>
                         <input type="checkbox" id="vegan"> Vegan
                     </label>
+                    <label>
+                        <input type="checkbox" id="glutenFree"> Gluten-Free
+                    </label>
+                    <label>
+                        <input type="checkbox" id="dairyFree"> Dairy-Free
+                    </label>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email (Optional)</label>
+                <input type="email" id="email" placeholder="Enter your email (optional)">
+            </div>
+            <button type="button" id="submitBtn">Submit Preferences</button>
+        </form>
+    </section>
+    <!-- Confirmation Modal -->
+    <div id="confirmationModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn" onclick="closeModal()">&times;</span>
+            <h2>Preferences Submitted</h2>
+            <p id="preferencesSummary">Thank you for your submission!</p>
+        </div>
+    </div>
+    <script src="preferences.js"></script>
+</body>
+</html>
