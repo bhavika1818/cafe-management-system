@@ -16,7 +16,7 @@ body {
 header {
     background-color: black;
     color: #fff;
-    text- align: center;
+    text-align: center;
     padding: 2rem;
     border-bottom: #fff;
 }
@@ -29,3 +29,139 @@ h1 {
 p {
     font-size: 1.2rem;
 }
+
+/* Menu Section Styles */
+#menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.category {
+    width: 100%;
+    margin-bottom: 3rem;
+    padding-left: 3rem;
+}
+
+.category h2 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.menu-item {
+    display: inline-block;
+    width: 250px;
+    background-color: #e6e1e1;
+    border-radius: 8px;
+    margin: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 1rem;
+    transition: transform 0.3s;
+    color:#333
+}
+
+.menu-item img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+.menu-item h3 {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+}
+
+.menu-item p {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.order-btn {
+    background-color: #d3ad7f;
+    color: white;
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.order-btn:hover {
+    background-color: #b68b5c;
+}
+
+.menu-item:hover {
+    transform: translateY(-10px);
+}
+
+/* Modal Styles */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: black;
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+    width: 300px;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 2rem;
+    color: #333;
+    cursor: pointer;
+}
+
+button {
+    margin-top: 1rem;
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #b68b5c;
+}
+
+#confirmOrder {
+    background-color: #28a745;
+    color: white;
+}
+
+#confirmOrder:hover {
+    background-color: #218838;
+}
+
+.preferences {
+    border-top: #fff;
+    background-color: black;
+        color: #fff;
+        text-align: center;
+        padding: 2rem;
+        border-bottom: #fff;
+        font-size: 26px;
+        padding-top: 0px;
+    }
+    .preferences p{
+        font-size: 25px;
+    }
