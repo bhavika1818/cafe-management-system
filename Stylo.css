@@ -60,3 +60,24 @@ blog-post {
     font-size: 20px;
     padding-left: 10%;
 }
+.blog1{
+    float: center;
+    padding-left: 30%;
+   }
+   
+   .blog2{
+       padding-left: 12%;
+       padding-right: 12%;
+       font-size: 21px;
+   }
+   
+   footer {
+       text-align: center;
+       padding: 30px;
+       background-color: black;
+       color: white;
+   }
+   
+   footer p {
+       margin: 0;
+   }
