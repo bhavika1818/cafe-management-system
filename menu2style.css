@@ -142,3 +142,12 @@ button {
 button:hover {
     background-color: #b68b5c;
 }
+
+#confirmOrder {
+    background-color: #28a745;
+    color: white;
+}
+
+#confirmOrder:hover {
+    background-color: #218838;
+}
