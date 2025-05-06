@@ -23,3 +23,14 @@ h1 {
     margin-bottom: 0.5rem;
     color: #f1c40f; /* Golden Yellow */
 }
+p {
+    font-size: 1.2rem;
+}
+
+/* Preferences Form Styles */
+#preferences-section {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
