@@ -80,3 +80,18 @@ p {
     font-size: 1.2rem;
     margin-bottom: 1rem;
 }
+
+.order-btn {
+    background-color: #d3ad7f;
+    color: white;
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.order-btn:hover {
+    background-color: #b68b5c;
+}
