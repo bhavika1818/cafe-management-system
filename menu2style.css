@@ -130,3 +130,15 @@ p {
     color: #333;
     cursor: pointer;
 }
+
+button {
+    margin-top: 1rem;
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #b68b5c;
+}
