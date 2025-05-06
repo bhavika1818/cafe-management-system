@@ -33,4 +33,18 @@ p {
     justify-content: center;
     padding: 2rem;
 }
+#preferences-form {
+    background-color: #222;
+    border-radius: 8px;
+    padding: 2rem;
+    width: 100%;
+    max-width: 500px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+
 
