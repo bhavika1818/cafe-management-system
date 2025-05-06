@@ -95,3 +95,8 @@ p {
 .order-btn:hover {
     background-color: #b68b5c;
 }
+
+.menu-item:hover {
+    transform: translateY(-10px);
+}
+
