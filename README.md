@@ -13,7 +13,7 @@
   <h2>🔗 Website</h2>
   <p><a href="https://github.com/bhavika1818/cafe-management-system.git" target="_blank">Click here to view the site</a></p>
 
-  <h2>🛠️ My Contribution</h2>
+  <h2>🛠️ My Contribution : Bhavika</h2>
   <ul>
     <li><strong>index.html</strong> – The main landing page.</li>
     <li><strong>about.html</strong> – A page providing information about the project.</li>
@@ -34,6 +34,13 @@
     <li>Structuring content with semantic HTML tags.</li>
     <li>Adding basic headings, paragraphs, and links.</li>
     <li>Creating a simple navigation menu for all pages.</li>
+  </ul>
+   <h2>👩🏻‍💼 Contributor: Bhumi </h2>
+    <ul>
+    <li><strong>stylee.css</strong> – General style improvements and cleanup.</li>
+    <li><strong>about.css</strong> – Enhanced styling and layout adjustments.</li>
+    <li><strong>contactstyle.css</strong> – Improved form alignment and spacing.</li>
+    <li><strong>menu2style.css</strong> – Improved layout, responsiveness, and visual consistency.</li>
   </ul>
   <h2>🧑‍💻 Tech Used</h2>
   <ul>
