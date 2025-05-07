@@ -42,6 +42,7 @@
     <li><strong>contactstyle.css</strong> – Improved form alignment and spacing.</li>
     <li><strong>menu2style.css</strong> – Improved layout, responsiveness, and visual consistency.</li>
   </ul>
+  <p>GitHub Profile: <a href="https://github.com/bhumi30607" target="_blank">github.com/bhumi30607</a></p>
   <h2>🧑‍💻 Tech Used</h2>
   <ul>
     <li>HTML5</li>
